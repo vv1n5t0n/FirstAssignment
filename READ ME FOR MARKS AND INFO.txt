@@ -1,0 +1,32 @@
+Game made by:
+Giancarlo Mora
+Anthony Mantini
+
+Mark we think we deserve: 90%
+
+Instructions:
+//Press the escape key to start the game/get out of the pause menu
+//Shoot at the dark grey wall in the game to progress further.
+//In the big room only one of the cubes trigger the next room to open
+//Then it is just a short jumping puzzle away from freedom
+
+
+Explaination of deserved mark:
+Although our game is not the cleanest looking and most
+visually stunning we put a lot of effort into making 
+a good GameSceneManager/Backbone to our game using
+tutorials online as well as the Unity Website itself
+in order to ensure we could build up a game of much greater
+value. We ended up spending a lot of time trying to
+make sure that we had the backbone implemented efficiently
+and trying to add more functions into the game but due to
+us thinking too big we ended up not having enough time to
+actually input the all the stuff we prepared for. So, even
+though our game may not look the best the effort that we
+put into it makes us believe that we deserve the 90% grade.
+
+On a side note, there are 2 scenes in the unity file, the 
+first one has our rough testing of the games features from 
+earlier in development, the second has the actual game we aimed 
+to make in it with all the extra code and such. We hope that
+you enjoy it!
